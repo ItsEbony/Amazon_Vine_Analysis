@@ -6,6 +6,7 @@ This analysis aims to determine which reviews are often most helpful and whether
 - All of the reviews in this dataset were non-vine reviews. 
 - As there were no vine reviews, all of the five-star reviews came from non-vine users. 
 - The dataset cannot determine whether the user's status as a vine user makes a difference because it does not include vine users. 
+
 []!(images/totals.png)
 
 ## Summary 
